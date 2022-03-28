@@ -41,3 +41,4 @@
  [![Gmail Badge](https://img.shields.io/badge/-ibyellima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibyellima@gmail.com)](mailto:ibyellima@gmail.com)
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/ygabrielramos/)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
