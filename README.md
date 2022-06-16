@@ -33,6 +33,7 @@
 ### 📈  Estatísticas gerais
 [![iBy3l github stats](https://github-readme-stats.vercel.app/api?username=iBy3l&theme=cobalt&show_icons=true)](https://github.com/iby3l/github-readme-stats)
 
+<a class="position-absolute width-full height-full rounded-2 discussion-spotlight-pattern-container discussion-spotlight-pattern-dot d-flex flex-justify-around flex-column overflow-hidden flex-items-stretch" style="z-index: 2;" aria-label="[Markdown] Specify theme context for images (Beta)" href="/github-community/community/discussions/16910"></a>
 <hr>
 
 ## 📲 Entre em contato! ✉️
