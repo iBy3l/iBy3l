@@ -2,18 +2,61 @@
 	🚀 Bem vindo ao meu GitHub 🚀
 </h1>
 
-### 🖖 Sobre mim 🖖:
-- 👋 Me chamo **Gabriel 
-  lima**, tenho 26  anos.
-- 📌  São Paulo - Capital.
-- 📚 Atualmente sou estudante de Engenharia de Software na Estácio.
- Meu foco nos estudos fora da faculdade é na área de Backend.
-- 🎓 Adquiri diversos **Cursos Online ([Cerificados](https://github.com/iby3l/Certificados))**, e muita **Prática** como um Bom **Autodidata**!
-- 🛠️ Estudando para me tornar um **Desenvolvedor**.
-- 🔭 Curiosidades: Amo cozinhar, camping e de vez enquanto ir pra academia rsrs
-- 💬 "Se te oferecerem um lugar dentro de um foguete, não pergunte qual é o assento, simplesmente embarque!" Sheryl, Sandberg
 
-<hr>
+
+
+
+<img src="https://github.com/iBy3l/iBy3l/blob/main/git.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### ⚡ Habilidades:
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
