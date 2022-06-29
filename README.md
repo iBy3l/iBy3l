@@ -29,9 +29,8 @@ class AboutMe () {
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 <h1>
 </h1>
-[![iuricode](https://github-readme-stats.vercel.app/api?iby3l=iuricode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![iBy3l](https://github-readme-stats.vercel.app/api/top-langs/?username=iby3l&hide=html&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
