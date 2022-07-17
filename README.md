@@ -10,10 +10,14 @@ class AboutMe () {
 
  String name = "Gabriel Lima";
  String acknowledgements = " Mobile Developer 📱 ";
+ String myLocation = " São Paulo/SP ";
  
- String myLocation = " São Paulo/SP "
- 
- final List<String> languages  = ["Dart", "Flutter", "Clean Code", "FireBase",];
+ final List<String> languages  = [
+    "Dart", 
+    "Flutter", 
+    "Clean Code", 
+    "FireBase",
+ ];
 
 }
 ```
