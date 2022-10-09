@@ -5,7 +5,7 @@
 
 <img align="right" width="220" src="https://github.com/iBy3l/iBy3l/blob/main/git.png" />
 
-```dart
+```python 
 class AboutMe () {
 
  String name = "Gabriel Lima";
