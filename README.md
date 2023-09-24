@@ -29,7 +29,6 @@ final List<String> superpowers = [
   "🌐 Web Enchantment",
   "📊 Data Sorcery",
   "📱 Mobile Enchantment",
-  "🌈 UI/UX Wizardry",
   "🌟 Continuous Learning",
   "🚀 Launching Rockets",
 ]; // Meus Poderes Mágicos! ✨🪄
