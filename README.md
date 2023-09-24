@@ -9,14 +9,31 @@
 class AboutMe {
   String name = "Gabriel Lima";
   String role = "🚀 Mobile App Magician 📱"; // Um toque mágico!
-  String location = "🌆 São Paulo, SP"; // Explorando a cidade mágica de São Paulo! 🏙️
+  String location = "🌆 São Paulo, SP"; // Moro na cidade mágica de São Paulo! 🏙️
 
-  final List<String> skills = [
-    "🚀 Dart",
-    "✨ Flutter",
-    "📝 Clean Code",
-    "🔥 Firebase",
-  ]; // Meus Poderes Mágicos! ✨🪄
+final List<String> superpowers = [
+  "🚀 Dart",
+  "✨ Flutter",
+  "📝 Writing Clean Code",
+  "🔥 Firebase",
+  "🚀 TypeScript",
+  "✨ NestJS",
+  "📝 Crafting Clean Architectures",
+  "🔥 Node.js",
+  "📝 Supabase",
+  "📝 AWS Cloud Wizardry",
+  "💡 Problem Solving",
+  "🛠️ Building Scalable Apps",
+  "🧙‍♂️ Magic with Algorithms",
+  "🧰 DevOps Sorcery",
+  "🌐 Web Enchantment",
+  "📊 Data Sorcery",
+  "📱 Mobile Enchantment",
+  "🌈 UI/UX Wizardry",
+  "🌟 Continuous Learning",
+  "🚀 Launching Rockets",
+]; // Meus Poderes Mágicos! ✨🪄
+
 
   AboutMe() {
     print("Criando uma instância mágica de AboutMe...");
