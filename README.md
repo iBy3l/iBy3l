@@ -6,20 +6,41 @@
 <img align="right" width="220" src="https://github.com/iBy3l/iBy3l/blob/main/git.png" />
 
 ```dart 
-class AboutMe () {
+class AboutMe {
+  String name = "Gabriel Lima";
+  String role = "🚀 Mobile App Magician 📱"; // Um toque mágico!
+  String location = "🌆 São Paulo, SP"; // Explorando a cidade mágica de São Paulo! 🏙️
 
- String name = "Gabriel Lima";
- String acknowledgements = " Mobile Developer 📱 ";
- String myLocation = " São Paulo/SP ";
- 
- final List<String> languages  = [
-    "Dart", 
-    "Flutter", 
-    "Clean Code", 
-    "FireBase",
- ];
+  final List<String> skills = [
+    "🚀 Dart",
+    "✨ Flutter",
+    "📝 Clean Code",
+    "🔥 Firebase",
+  ]; // Meus Poderes Mágicos! ✨🪄
 
+  AboutMe() {
+    print("Criando uma instância mágica de AboutMe...");
+  } // Conjurando uma instância mágica!
+  
+  void showSkills() {
+    print("Meus Poderes Mágicos:");
+    for (var skill in skills) {
+      print(skill);
+    }
+  } // Revelando meus Poderes Mágicos!
+
+  void castSpell() {
+    print("🪄✨ Expecto Patronum! Lumos Maxima! Alohomora! 🪄✨");
+    print("✨🔮✨ Abracadabra! ✨🔮✨");
+  } // Lançando feitiços mágicos!
 }
+
+void main() {
+  var magician = AboutMe(); // Criando o mágico Gabriel!
+  magician.showSkills(); // Revelando os Poderes Mágicos de Gabriel!
+  magician.castSpell(); // Lançando feitiços mágicos!
+}
+
 ```
 
 ## **Linguagens e Ferramentas:**  
