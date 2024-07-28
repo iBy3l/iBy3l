@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=D9E6F7&random=false&width=435&lines=Welcome%2C+I'm+Gabriel+%F0%9F%93%B1%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
-<img align="right" width="300" src="https://github.com/iBy3l/iBy3l/blob/main/boginni_Imagine_um_mundo_onde_habilidades_tecnicas_se_misturam__743920ed-459c-4e5d-96dd-f623234a08d1.png" />
 
 ```dart 
 class AboutMe {
